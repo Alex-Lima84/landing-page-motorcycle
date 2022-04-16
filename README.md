@@ -22,7 +22,7 @@ This is a responsive project, made to be viewed in larger and small screens.
 <br/><br/>
 
 ## Project Sample:
-<img src="src\imagens\project.gif" alt="project sample">
+<img src="src\images\project.gif" alt="project sample">
 
 <br/><br/>
 
